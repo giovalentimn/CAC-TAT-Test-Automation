@@ -2,8 +2,6 @@
 
 Este projeto contém os testes automatizados da Central de Atendimento (CAC), utilizando o framework [Cypress](https://www.cypress.io/), com foco em qualidade, legibilidade e manutenção.
 
-[![Build Status](https://img.shields.io/badge/status-passing-brightgreen)](#)
-
 > ⚙️ Projeto de automação para validação de funcionalidades da Central de Atendimento.
 
 ---
