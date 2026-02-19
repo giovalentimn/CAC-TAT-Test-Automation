@@ -36,4 +36,4 @@ Se este repositório te ajudou, deixe uma estrela ⭐ para apoiar o projeto!
 
 ---
 
-Desenvolvido com 💚 por [Giovanna Valentim](https://www.linkedin.com/in/giovanna-valentimn/).
+Desenvolvido por [Giovanna Valentim](https://www.linkedin.com/in/giovanna-valentimn/).
